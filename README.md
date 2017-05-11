@@ -2,7 +2,7 @@
 
 CMU DeepLens, or DeepLens for short, is a completely automated strong lens finder based on Deep Residual Networks, a state of the art Deep Learning architecture for image detection and classification tasks.
 
-The method itself is described in https://arxiv.org/abs/1703.02642
+The method itself is described in https://arxiv.org/abs/1703.02642 and the simulations used in that paper are available at http://portal.nersc.gov/project/hacc/nanli/lsst_sl_mocks/
 
 ## Requirements
 
